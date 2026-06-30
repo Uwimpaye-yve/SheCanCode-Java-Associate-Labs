@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week1-Advanced-Java-core-foundations/exercise1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week1-Advanced-Java-core-foundations/scenario2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week1-Advanced-Java-core-foundations/scenario3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week2 Java stream/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
